@@ -2,7 +2,7 @@
 
 
 - 👋 Hi, I’m @OlutokiJohn
-- 👀 I’m interested in Application of Aartifical Intelligence within the oil and gas industry
+- 👀 I’m interested in the Application of Artificial Intelligence within the oil and gas industry to extract valuable information from the several datasets 
 - 🌱 I’m currently learning and developing apps using Python, data science, machine learning and sharing knowledge amongst the community
 - 📫 How to reach me: <a href='https://www.linkedin.com/in/olutoki-john-9764a3108/'> LinkedIn</a>
 
